@@ -11,5 +11,4 @@ Prerequisite :- SFML (Version > 2.4)
 Run:-
 
     cmake CMakeLists.txt
-    
-in the working directory
+  in the working directory
