@@ -8,4 +8,6 @@ Space Space-Invaders clone in C++ and SFML and built using CMake.
 
 Prerequisite :- SFML (Version > 2.4)
 
-run    cmake CMakeLists.txt    in working directory
+run
+    cmake CMakeLists.txt
+in working directory
