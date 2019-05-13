@@ -1,0 +1,13 @@
+/home/pushkar/QtStuff/space-invaders/CMakeFiles/install/strip.dir
+/home/pushkar/QtStuff/space-invaders/CMakeFiles/install.dir
+/home/pushkar/QtStuff/space-invaders/CMakeFiles/install/local.dir
+/home/pushkar/QtStuff/space-invaders/CMakeFiles/list_install_components.dir
+/home/pushkar/QtStuff/space-invaders/CMakeFiles/edit_cache.dir
+/home/pushkar/QtStuff/space-invaders/CMakeFiles/rebuild_cache.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/edit_cache.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/install/strip.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/space-invaders.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/rebuild_cache.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/list_install_components.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/install/local.dir
+/home/pushkar/QtStuff/space-invaders/src/CMakeFiles/install.dir

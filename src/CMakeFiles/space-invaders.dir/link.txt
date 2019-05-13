@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/space-invaders.dir/main.cpp.o CMakeFiles/space-invaders.dir/oncollide.cpp.o CMakeFiles/space-invaders.dir/bullet.cpp.o CMakeFiles/space-invaders.dir/alien.cpp.o CMakeFiles/space-invaders.dir/ship.cpp.o  -o space-invaders -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 
