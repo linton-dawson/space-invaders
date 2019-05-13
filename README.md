@@ -1,6 +1,6 @@
 # space-invaders
 
-Space Space-Invaders clone in C++ and SFML and built using CMake.
+Space-Invaders clone in C++ and SFML and built using CMake.
 
 * Use W, A, S, D for movements
 
@@ -8,6 +8,6 @@ Space Space-Invaders clone in C++ and SFML and built using CMake.
 
 Prerequisite :- SFML (Version > 2.4)
 
-Run in the working directory:-
+Run in the working directory :-
 
     cmake CMakeLists.txt
