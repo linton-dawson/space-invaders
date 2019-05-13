@@ -2,7 +2,7 @@
 
 Space-Invaders clone in C++ and SFML and built using CMake.
 
-* Use W, A, S, D for movements
+* Use W, A, S, D for movement
 
 * Use Space to shoot
 
